@@ -1,1 +1,0 @@
-![](path/to/img.jpg)
